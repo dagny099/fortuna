@@ -1,5 +1,3 @@
-# Bienvenidos and Welcome
-
 ## BIOGRAPHY  
 I'm a data scientist and software consultant with interdisciplinary experience in machine learning, UX/UI, and cognitive science. I'm also a marathon-runner, [bilingual Toastmaster](https://7032821.toastmastersclubs.org/), and deputy [voter registrar](https://www.headcount.org/state/texas/). 
 
@@ -24,3 +22,5 @@ TL/DR: I have a passion for learning and helping others learn. Reach out if like
 
 > Throw your dreams into space like a kite, and you do not know what it will bring back, a new life, a new friend, a new love, a new country.
 <cite>Anaïs Nin</cite>
+
+
